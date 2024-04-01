@@ -1,6 +1,6 @@
 # Liquid State Machine for Speech Classification
 
-This repository contains the MATLAB implementation of a Liquid State Machine (LSM) for speech classification, demonstrating the use of an approximate state-space model for predictive performance, as described in the papers listed in the citation section.
+This repository contains the MATLAB implementation of a Liquid State Machine (LSM) for speech classification in Triton folder, demonstrating the use of an approximate state-space model for predictive performance, as described in the papers listed in the citation section.
 
 ## Citing
 
